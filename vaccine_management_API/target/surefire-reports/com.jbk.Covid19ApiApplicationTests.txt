@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jbk.Covid19ApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.323 s - in com.jbk.Covid19ApiApplicationTests
